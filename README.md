@@ -1,6 +1,6 @@
 # Go - The Complete Guide
 
-This repository contains course resources (code snapshots, slides) for my [Go - The Complete Guide course](https://acad.link/golang).
+This repository contains course resources (code snapshots, slides) for [Go - The Complete Guide course](https://acad.link/golang).
 
 ## How To Use
 
